@@ -1,4 +1,4 @@
-# Bad-One-time-pad-code-
+# One-time-pad-code-
 The Code I wrote to aid decryting one time pad message.
 Three part code
 1. helps you narrow down the first letter of each sentence
